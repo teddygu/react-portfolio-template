@@ -1,13 +1,14 @@
 {
     "name": "Teddy Gu",
-    "headerTaglineOne": "Hello ",
+    "headerTaglineOne": "Hello 👋",
     "headerTaglineTwo": "I'm Teddy Gu",
-    "headerTaglineThree": "fullstack developer",
+    "headerTaglineThree": "backend developer",
+    "headerTaglineFour": "based in the US",
     "showCursor": true,
     "showBlog": false,
     "darkMode": true,
     "showResume": true,
-    "socials": [ 
+    "socials": [
         {
             "id": "1",
             "title": "Github",
@@ -16,7 +17,7 @@
         {
             "id": "2",
             "title": "LinkedIn",
-            "link": "https://www.linkedin.com/in/zinan-teddy-gu-3b5437170/"
+            "link": "https://www.linkedin.com/in/teddygu/"
         },
         {
             "id": "3",
@@ -32,59 +33,93 @@
     "projects": [
         {
             "id": "1",
-            "title": "Voluntary(mobile app)",
+            "title": "Project One Test",
             "description": "",
             "imageSrc": "https://images.unsplash.com/photo-1487837647815-bbc1f30cd0d2?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8Njl8fHBhc3RlbHxlbnwwfHwwfA%3D%3D&auto=format&fit=crop&w=400&q=60",
-            "url": "https://github.com/teddygu/voluntary"
+            "url": ""
         },
         {
             "id": "2",
-            "title": "Scraper",
+            "title": "Project Two",
             "description": "",
             "imageSrc": "https://images.unsplash.com/photo-1605153864431-a2795a1b2f95?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MXwyNTY3ODl8fGVufDB8fHw%3D&auto=format&fit=crop&w=400&q=60",
-            "url": "https://github.com/teddygu/scraper"
+            "url": ""
         },
         {
             "id": "3",
-            "title": "Stock Projection and Summary",
+            "title": "Project Three",
             "description": "",
-            "imageSrc": "https://raw.githubusercontent.com/shirosaidev/stocksight/master/docs/stocksight-dashboard-kibana.png",
+            "imageSrc": "https://images.unsplash.com/photo-1504083898675-c896ecdae86e?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8MjJ8fHBhc3RlbHxlbnwwfHwwfA%3D%3D&auto=format&fit=crop&w=400&q=60",
             "url": ""
         },
         {
             "id": "4",
-            "title": "Spotify Clone",
+            "title": "Project Four",
             "description": "",
             "imageSrc": "https://images.unsplash.com/photo-1492171983775-a51717616c0d?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8NjB8fHBhc3RlbHxlbnwwfHwwfA%3D%3D&auto=format&fit=crop&w=400&q=60",
             "url": ""
+        },
+        {
+            "id": "5",
+            "title": "Project Five",
+            "description": "Development",
+            "imageSrc": "https://images.unsplash.com/photo-1534239143101-1b1c627395c5?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8NzZ8fHBhc3RlbHxlbnwwfHwwfA%3D%3D&auto=format&fit=crop&w=400&q=60",
+            "url": ""
+        },
+        {
+            "id": "6",
+            "title": "Project Six",
+            "description": "",
+            "imageSrc": "https://images.unsplash.com/photo-1517479149777-5f3b1511d5ad?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8MTAyfHxwYXN0ZWx8ZW58MHx8MHw%3D&auto=format&fit=crop&w=400&q=60",
+            "url": ""
         }
     ],
-
-"aboutpara": "I am a developer with a passion for building intelligent, data-driven solutions that merge AI, cybersecurity, and software engineering. I love working at the intersection of automation and analytics, creating tools that not only streamline processes but also enhance decision-making with meaningful insights. Most recently, I interned as a Software Engineer at Newegg, where I designed and deployed an AI-powered product review summarizer, integrating web scraping and MySQL to uncover data-driven strategies for boosting sales. Before that, I researched online privacy and cybersecurity at Macalester College, exploring how digital communities navigate security challenges. Beyond work, I enjoy tackling technical challenges through projects like sentiment analysis of product reviews and developing hackathon-winning apps that leverage APIs and automation. Whether it's optimizing data workflows, enhancing security, or building AI-driven applications, I’m always looking for ways to make technology more efficient and impactful.",
-    
+    "services": [
+        {
+            "id": "1",
+            "title": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+            "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry."
+        },
+        {
+            "id": "2",
+            "title": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+            "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry."
+        },
+        {
+            "id": "3",
+            "title": "n",
+            "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry."
+        },
+        {
+            "id": "4",
+            "title": "",
+            "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry."
+        }
+    ],
+    "aboutpara": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
     "resume": {
-        "tagline": "I'm a backend software engineer",
-        "description": "I am well-versed with React, Java, and Python.",
+        "tagline": "👋  I'm a backend software engineer",
+        "description": "I ham well-versed with React, Java, and Python.",
         "experiences": [
             {
                 "id": "1",
-                "dates": "June 2022 - August 2022",
-                "type": "Research Position",
-                "position": "Cybersecurity reasesarcher at Macalester College",
-                "bullets": "Researched usable privacy and cyber security on online platforms such as Twitter, Tumblr and others with emphasis on fan spaces under the direction of Professor Abby Marsh, Conducted qualitative coding on meta essays, Identified and made suggestions to areas of cyber security in online spaces that could be improved"
+                "dates": "March 2022 - Present",
+                "type": "Full Time",
+                "position": "Frontend Engineer at X",
+                "bullets": "Bullet One, Bullet Two"
             },
             {
                 "id": "d495c23b-4f65-479a-9b8a-cfbc1c089725",
-                "dates": "June 2023 - August 2023",
-                "type": "Internship",
-                "position": "Software Engineer at Newegg",
-                "bullets": "Designed and deployed an AI based summarizer on the Newegg website for product reviews, Implemented a web scraper in Python to scrape product summaries and process them with an AI, Used MySQL to find data-driven insights on potential ways to increase sales/conversions"
+                "dates": "July 2020 - March 2022",
+                "type": "Full Time",
+                "position": "Frontend Engineer at X",
+                "bullets": "Worked on the frontend of a React application, Worked on the frontend of a React application"
             }
         ],
         "education": {
-            "universityName": "Macalester College",
-            "universityDate": "Graduating Class of 2025",
-            "universityPara": ""
+            "universityName": "University X",
+            "universityDate": "2020-2025",
+            "universityPara": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry&apos;s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book"
         },
         "languages": [
             "Javascript",
@@ -96,12 +131,10 @@
         "frameworks": [
             "React",
             "FastAPI",
-            "Django"
-
+            "NodeJs"
         ],
         "others": [
-            "AWS",
-            "Postman"
+            "AWS"
         ]
     }
 }
