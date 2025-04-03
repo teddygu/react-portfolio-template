@@ -74,6 +74,8 @@
             "url": ""
         }
     ],
+    "services": [
+    ],
     "aboutpara": "I am a developer with a passion for building intelligent, data-driven solutions that merge AI, cybersecurity, and software engineering. I love working at the intersection of automation and analytics, creating tools that not only streamline processes but also enhance decision-making with meaningful insights. Most recently, I interned as a Software Engineer at Newegg, where I designed and deployed an AI-powered product review summarizer, integrating web scraping and MySQL to uncover data-driven strategies for boosting sales. Before that, I researched online privacy and cybersecurity at Macalester College, exploring how digital communities navigate security challenges. Beyond work, I enjoy tackling technical challenges through projects like sentiment analysis of product reviews and developing hackathon-winning apps that leverage APIs and automation. Whether it's optimizing data workflows, enhancing security, or building AI-driven applications, I’m always looking for ways to make technology more efficient and impactful.",
     "resume": {
         "tagline": "I'm a backend software engineer",
