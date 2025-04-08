@@ -45,7 +45,7 @@
             "title": "Stock Projection and Summary",
             "description": "Stock market analyzer and stock predictor using Elasticsearch, Twitter, News headlines and Python natural language processing and sentiment analysis. ",
             "imageSrc": "https://raw.githubusercontent.com/shirosaidev/stocksight/refs/heads/master/docs/stocksight-dashboard-kibana.png",
-            "url": ""
+            "url": "https://github.com/teddygu/stock-analyst"
         },
         {
             "id": "4",
