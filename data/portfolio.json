@@ -29,30 +29,30 @@
         {
             "id": "1",
             "title": "Voluntary(mobile app)",
-            "description": "",
+            "description": "Collaborated with a team of 4 to develop a React Native-based app that helps organizations get the word out for their volunteering events and incentivizes users to attend",
             "imageSrc": "https://github.com/teddygu/voluntary/raw/main/Screenshots/map.png",
             "url": "https://github.com/teddygu/voluntary"
         },
         {
             "id": "2",
             "title": "Scraper",
-            "description": "",
+            "description": "Built a web scraper using Python to scrape for product ratings, reviews, and prices",
             "imageSrc": "https://miro.medium.com/v2/resize:fit:1400/format:webp/1*XciTn7m_GHOab7KTNbzNww.png",
             "url": "https://github.com/teddygu/scraper"
         },
         {
             "id": "3",
             "title": "Stock Projection and Summary",
-            "description": "",
+            "description": "Stock market analyzer and stock predictor using Elasticsearch, Twitter, News headlines and Python natural language processing and sentiment analysis. ",
             "imageSrc": "https://raw.githubusercontent.com/shirosaidev/stocksight/refs/heads/master/docs/stocksight-dashboard-kibana.png",
             "url": ""
         },
         {
             "id": "4",
             "title": "Instagram Clone",
-            "description": "",
+            "description": "This project is a clone of the Instagram android app made using React Native with Expo using firebase services (authentication, firestore and storage).",
             "imageSrc": "https://raw.githubusercontent.com/SimCoderYoutube/InstagramClone/refs/heads/master/images/mockup.png",
-            "url": ""
+            "url": "https://github.com/teddygu/instagram-app"
         }
     ],
     "aboutpara": "I am a developer with a passion for building intelligent, data-driven solutions that merge AI, cybersecurity, and software engineering. I love working at the intersection of automation and analytics, creating tools that not only streamline processes but also enhance decision-making with meaningful insights. Most recently, I interned as a Software Engineer at Newegg, where I designed and deployed an AI-powered product review summarizer, integrating web scraping and MySQL to uncover data-driven strategies for boosting sales. Before that, I researched online privacy and cybersecurity at Macalester College, exploring how digital communities navigate security challenges. Whether it's optimizing data workflows, enhancing security, or building AI-driven applications, I’m always looking for ways to make technology more efficient and impactful.",
