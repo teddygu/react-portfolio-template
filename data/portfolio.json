@@ -52,6 +52,13 @@
             "description": "This project is a clone of the Instagram android app made using React Native with Expo using firebase services (authentication, firestore and storage).",
             "imageSrc": "https://raw.githubusercontent.com/SimCoderYoutube/InstagramClone/refs/heads/master/images/mockup.png",
             "url": "https://github.com/teddygu/instagram-app"
+        },
+        {
+            "id": "5",
+            "title": "Google Maps data collector",
+            "description": "A free and open-source Google Maps scraper with both command line and web UI options using GO programming language in order to scrape and compile data to export to CSV, JSON or PostgreSQL.",
+            "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/3/39/Google_Maps_icon_%282015-2020%29.svg",
+            "url": "https://github.com/teddygu/googlemapsscrape"
         }
     ],
     "aboutpara": "I am a developer with a passion for building intelligent, data-driven solutions that merge AI, cybersecurity, and software engineering. I love working at the intersection of automation and analytics, creating tools that not only streamline processes but also enhance decision-making with meaningful insights. Most recently, I interned as a Software Engineer at Newegg, where I designed and deployed an AI-powered product review summarizer, integrating web scraping and MySQL to uncover data-driven strategies for boosting sales. Before that, I researched online privacy and cybersecurity at Macalester College, exploring how digital communities navigate security challenges. Whether it's optimizing data workflows, enhancing security, or building AI-driven applications, I’m always looking for ways to make technology more efficient and impactful.",
@@ -70,13 +77,13 @@
                 "id": "d495c23b-4f65-479a-9b8a-cfbc1c089725",
                 "dates": "June 2022 - August 2022",
                 "type": "Research Position",
-                "position": "Cybersecurity reasesarcher at Macalester College",
+                "position": "Cybersecurity researcher at Macalester College",
                 "bullets": "Researched usable privacy and cyber security on online platforms among Twitter and Tumblr among other sites with emphasis on fan spaces under the direction of Professor Abby Marsh, Conducted qualitative coding on meta essays, Identified and made suggestions to areas of cyber security in online spaces that could be improved"
             }
         ],
         "education": {
             "universityName": "Macalester College",
-            "universityDate": "Graduating Class of 2025",
+            "universityDate": "Graduating Class of 2026",
             "universityPara": ""
         },
         "languages": [
