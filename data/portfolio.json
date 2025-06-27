@@ -27,18 +27,19 @@
     "projects": [
         {
             "id": "1",
-            "title": "Voluntary(mobile app)",
-            "description": "Collaborated with a team of 4 to develop a React Native-based app that helps organizations get the word out for their volunteering events and incentivizes users to attend",
-            "imageSrc": "https://github.com/teddygu/voluntary/raw/main/Screenshots/map.png",
-            "url": "https://github.com/teddygu/voluntary"
+            "title": "Google Maps data collector",
+            "description": "A free and open-source Google Maps scraper with both command line and web UI options using GO programming language in order to scrape and compile data to export to CSV, JSON or PostgreSQL.",
+            "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/3/39/Google_Maps_icon_%282015-2020%29.svg",
+            "url": "https://github.com/teddygu/googlemapsscrape"
         },
         {
             "id": "2",
-            "title": "Scraper",
-            "description": "Built a web scraper using Python to scrape for product ratings, reviews, and prices",
-            "imageSrc": "https://miro.medium.com/v2/resize:fit:1400/format:webp/1*XciTn7m_GHOab7KTNbzNww.png",
-            "url": "https://github.com/teddygu/scraper"
+            "title": "Instagram Clone",
+            "description": "This project is a clone of the Instagram android app made using React Native with Expo using firebase services (authentication, firestore and storage).",
+            "imageSrc": "https://raw.githubusercontent.com/SimCoderYoutube/InstagramClone/refs/heads/master/images/mockup.png",
+            "url": "https://github.com/teddygu/instagram-app"
         },
+
         {
             "id": "3",
             "title": "Stock Projection and Summary",
@@ -48,18 +49,19 @@
         },
         {
             "id": "4",
-            "title": "Instagram Clone",
-            "description": "This project is a clone of the Instagram android app made using React Native with Expo using firebase services (authentication, firestore and storage).",
-            "imageSrc": "https://raw.githubusercontent.com/SimCoderYoutube/InstagramClone/refs/heads/master/images/mockup.png",
-            "url": "https://github.com/teddygu/instagram-app"
+            "title": "Scraper",
+            "description": "Built a web scraper using Python to scrape for product ratings, reviews, and prices",
+            "imageSrc": "https://miro.medium.com/v2/resize:fit:1400/format:webp/1*XciTn7m_GHOab7KTNbzNww.png",
+            "url": "https://github.com/teddygu/scraper"
         },
         {
             "id": "5",
-            "title": "Google Maps data collector",
-            "description": "A free and open-source Google Maps scraper with both command line and web UI options using GO programming language in order to scrape and compile data to export to CSV, JSON or PostgreSQL.",
-            "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/3/39/Google_Maps_icon_%282015-2020%29.svg",
-            "url": "https://github.com/teddygu/googlemapsscrape"
+            "title": "Voluntary(mobile app)",
+            "description": "Collaborated with a team of 4 to develop a React Native-based app that helps organizations get the word out for their volunteering events and incentivizes users to attend",
+            "imageSrc": "https://github.com/teddygu/voluntary/raw/main/Screenshots/map.png",
+            "url": "https://github.com/teddygu/voluntary"
         }
+
     ],
     "aboutpara": "I am a developer with a passion for building intelligent, data-driven solutions that merge AI, cybersecurity, and software engineering. I love working at the intersection of automation and analytics, creating tools that not only streamline processes but also enhance decision-making with meaningful insights. Most recently, I interned as a Software Engineer at Newegg, where I designed and deployed an AI-powered product review summarizer, integrating web scraping and MySQL to uncover data-driven strategies for boosting sales. Before that, I researched online privacy and cybersecurity at Macalester College, exploring how digital communities navigate security challenges. Whether it's optimizing data workflows, enhancing security, or building AI-driven applications, I’m always looking for ways to make technology more efficient and impactful.",
     "resume": {
