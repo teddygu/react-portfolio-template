@@ -22,6 +22,11 @@
             "id": "3",
             "title": "Email",
             "link": "mailto:zinangu@gmail.com"
+        },
+        {
+            "id": "4",
+            "title": "Resume",
+            "link": "https://teddygu.com/resume"
         }
     ],
     "projects": [
